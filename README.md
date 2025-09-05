@@ -49,7 +49,6 @@ This repository presents:
 
 ### Example Result (Accuracy vs Malicious Clients)
 
-_(Export figures from notebooks and save in `results/`)_
 
 | Label Flip                           | Noise                           | Model Poisoning                           | Data Duplication                           |
 | ------------------------------------ | ------------------------------- | ----------------------------------------- | ------------------------------------------ |
