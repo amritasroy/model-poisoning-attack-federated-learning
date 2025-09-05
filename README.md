@@ -73,8 +73,8 @@ federated-learning-poisoning-attacks/
 │   ├── accuracy_noise.png
 │   ├── accuracy_model_poisoning.png
 │   └── accuracy_data_duplication.png
-│── docs/
-│   └── slidedeck.pptx
+│
+|── slidedeck.pptx
 │── .gitignore
 ```
 
@@ -99,7 +99,7 @@ jupyter notebook notebooks/
 ## 🎤 Presentation
 
 For a visual walkthrough of findings and insights, see the presentation:  
-👉 [slidedeck.pptx](docs/slidedeck.pptx)
+👉 [slidedeck.pptx](slidedeck.pptx)
 
 ---
 
