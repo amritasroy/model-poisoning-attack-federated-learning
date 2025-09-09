@@ -110,6 +110,12 @@ For a visual walkthrough of findings and insights, see the presentation:
 - Develop defenses balancing **robustness vs accuracy trade-offs**.
 
 ---
+## ✍️ Author
+
+- Amrita Sinha Roy
+
+If you use this work, please cite the project/report accordingly.
+
 
 ## 📜 License
 
